@@ -1,0 +1,21 @@
+body {
+	background-color: #FFFACD;
+	}
+	
+	h1 {
+		color: maroon;
+		text-align: center;
+		font-family: "Arial", sans-serif;
+	}
+	
+	p {
+		font-family: "Verdana", sans-serif;
+	}
+	
+	a {
+		font-family: "Verdana", sans-serif;
+		text-decoration: none;
+		color: navy;
+	}
+
+	
