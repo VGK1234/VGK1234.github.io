@@ -1,11 +1,23 @@
 body {
-	background-color: #FFFACD;
+	background-color: #FFCC66;
+	text-align: center;
 	}
 	
 	h1 {
 		color: maroon;
 		text-align: center;
 		font-family: "Arial", sans-serif;
+	}
+	
+	h2 {
+		text-align: center;
+		font-family: "Arial", sans-serif;
+	}
+	
+	.art74 {
+		background-color: #FFCCCC;
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 	
 	p {
@@ -15,6 +27,7 @@ body {
 	a {
 		font-family: "Verdana", sans-serif;
 		text-decoration: none;
+		font-weight: bold;
 		color: navy;
 	}
 
