@@ -11,6 +11,11 @@ h1 {
 	font-size: 30px;
 }
 
+h2 {
+	color: black;
+	font-size: 22px;
+}
+
 p {
 	color: #800000;
 	font-weight: bold;
