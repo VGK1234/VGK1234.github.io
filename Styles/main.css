@@ -1,8 +1,6 @@
 	body {
 		background-color: #FFCC66;
 		text-align: center;
-		margin-left: 200px;
-		margin-right: 200px;
 	}
 
 	h1 {
@@ -22,12 +20,14 @@
 
 	.course {
 		flex:50%;
-		height: 200px;
+		height: 400px;
 	}
 
 	p {
 		font-family: "Verdana", sans-serif;
 		color: #000000;
+		margin-left: 300px;
+		margin-right: 300px;
 	}
 
 	a {
