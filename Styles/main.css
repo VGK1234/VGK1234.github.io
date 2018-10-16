@@ -16,16 +16,26 @@
 		font-family: "Arial", sans-serif;
 	}
 
-	.courses {
-		height: 800px;
-	}
-
 	.art74 {
 		background-color: #FF9999;
+		float: center;
+		width: 50%;
+		padding: 10px;
+		height: 800px;
 	}
 
 	.art75 {
 		background-color:#9999FF;
+		float: center;
+		width: 50%;
+		padding: 10px;
+		height: 800px;
+	}
+
+	.courses:after {
+		content: "";
+		display: table;
+		clear: both;
 	}
 
 	p {
