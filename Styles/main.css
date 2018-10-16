@@ -16,6 +16,9 @@
 		font-family: "Arial", sans-serif;
 	}
 
+	.courses {
+		height: 800px;
+	}
 	.art74 {
 		background-color: #FF9999;
 	}
@@ -26,6 +29,7 @@
 
 	p {
 		font-family: "Verdana", sans-serif;
+		color: #000000;
 	}
 
 	a {
