@@ -19,8 +19,9 @@
 	}
 
 	.course {
-		flex:50%;
-		height: 400px;
+		flex: 50%;
+		height: 200px;
+		padding: 10px;
 	}
 
 	p {
