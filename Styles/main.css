@@ -16,26 +16,14 @@
 		font-family: "Arial", sans-serif;
 	}
 
-	.art74 {
-		background-color: #FF9999;
-		float: center;
-		width: 50%;
-		padding: 10px;
-		height: 800px;
+	.portfolio-pages {
+		display: flex;
 	}
 
-	.art75 {
-		background-color:#9999FF;
-		float: center;
-		width: 50%;
+	.course {
+		flex:50%;
 		padding: 10px;
-		height: 800px;
-	}
-
-	.courses:after {
-		content: "";
-		display: table;
-		clear: both;
+		height: 300px;
 	}
 
 	p {
