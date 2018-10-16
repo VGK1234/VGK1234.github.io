@@ -17,12 +17,14 @@
 	}
 
 	.art74 {
+		float: left;
 		background-color: #FF9999;
 		margin-left: 200px;
 		margin-right: 200px;
 	}
 
 	.art75 {
+		float: right;
 		background-color:#9999FF;
 		margin-left: 200px;
 		margin-right: 200px;
