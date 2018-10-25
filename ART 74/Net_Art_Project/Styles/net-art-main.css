@@ -1,0 +1,40 @@
+body {
+	background-color: #99CCFF;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+h1 {
+	color: #FF9900;
+	font-size: 30px;
+}
+
+h2 {
+	color: black;
+	font-size: 22px;
+}
+
+p {
+	color: #800000;
+	font-weight: bold;
+	font-size: 20px;
+	
+}
+
+a {
+	color: #666633;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.row {
+	width: 800;
+	height: 400;
+	background-color: #CCFF99;
+}
+
+
+
