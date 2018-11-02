@@ -13,6 +13,7 @@ h1 {
 }
 
 nav {
+  height: 40px;
   background-color: #FF9999;
   color: black;
   font-family: "Verdana", sans-serif;
