@@ -1,12 +1,14 @@
-body {
-  background-color: #9999FF;
-  text-align: center;
+h1 {
+  text-align: left;
+  background-color: black;
+  color: white;
+  font-family: "Arial", sans-serif;
+  font-size: 18;
 }
 
-h1 {
-  text-align: center;
-  color: #000066;
-  font-family: "Arial", sans-serif;
+nav {
+  background-color: #000066;
+  color: black;
 }
 
 h2 {
