@@ -1,42 +1,46 @@
-	h1 {
+body {
+	text-align: center;
+}
+
+h1 {
 		background-color: #CC3300;
 		color: white;
 		font-weight: bold;
 		text-align: center;
 		font-family: "Arial", sans-serif;
-	}
+}
 
-	h2 {
+h2 {
 		color: black;
 		font-weight: bold;
 		text-align: center;
 		font-family: "Arial", sans-serif;
-	}
+}
 
-	.portfolio-pages {
+.portfolio-pages {
 		display: flex;
 		height: 250px;
-	}
+}
 
-	.course {
+.course {
 		flex: 50%;
 		height: 250px;
 		margin-top: 10px;
 		margin-bottom: 10px;
-	}
+}
 
-	p {
+p {
 		text-align: center;
 		font-family: "Verdana", sans-serif;
 		color: black;
 		margin-left: 300px;
 		margin-right: 300px;
-	}
+}
 
-	a {
+a {
 		text-align: center;
 		font-family: "Verdana", sans-serif;
 		text-decoration: none;
 		font-weight: bold;
 		color: black;
-	}
+}
