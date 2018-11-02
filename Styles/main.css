@@ -3,11 +3,13 @@ body {
 }
 
 h1 {
+		text-align: center;
 		background-color: #CC3300;
+		height: 40px;
 		color: white;
 		font-weight: bold;
-		text-align: center;
 		font-family: "Arial", sans-serif;
+		font-size: 30px;
 }
 
 h2 {
