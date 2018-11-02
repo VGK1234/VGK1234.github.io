@@ -4,11 +4,14 @@ body {
 }
 
 h1 {
+  height: 60px;
   text-align: left;
   background-color: #CC3300;
   color: white;
   font-family: "Montserrat", sans-serif;
   font-size: 18;
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-left: 10px;
 }
 
@@ -17,6 +20,8 @@ nav {
   background-color: #FF9999;
   color: black;
   font-family: "Verdana", sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 h2 {
