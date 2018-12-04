@@ -27,15 +27,3 @@ a {
 	font-size: 20px;
 }
 
-.column {
-	float: left;
-	width: 50%;
-	padding: 10px;
-	height: 600px;
-}
-
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
