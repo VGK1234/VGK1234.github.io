@@ -27,7 +27,17 @@ a {
 	font-size: 20px;
 }
 
-.row {
-	width: 800;
-	height: 400;
+.column1 {
+	float: left;
+	width: 50%;
+	padding: 10px;
+	height: 600px;
 }
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.
