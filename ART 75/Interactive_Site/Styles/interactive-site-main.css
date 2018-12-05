@@ -30,11 +30,6 @@ a {
 	box-sizing: border-box;
 }
 
-.button {
-	background-color: #555555;
-	color: white;
-}
-
 .column {
     float: left;
     width: 33.33%;
