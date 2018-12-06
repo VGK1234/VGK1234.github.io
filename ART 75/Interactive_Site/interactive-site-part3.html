@@ -6,6 +6,18 @@
     <meta charset="utf-8">
     <title>Interactive Site</title>
     <link rel="stylesheet" href="Styles/interactive-site-main.css">
+    <script src=
+    "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+    function myFunction() {
+        var x = document.getElementById("main");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+    </script>
   </head>
 
   <body>
@@ -19,7 +31,7 @@
   <button id="show">Show</button>
   <br>
   <br>
-  <div class="main">
+  <div id="main">
   </div>
   <br>
   <br>

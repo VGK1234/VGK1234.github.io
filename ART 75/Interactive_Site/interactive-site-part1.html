@@ -9,14 +9,14 @@
     <script src=
     "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
-      $(document).ready(function(){
-          $("#hide").click(function(){
-              $("main").hide();
-          });
-          $("#show").click(function(){
-              $("main").show();
-          });
-      });
+    function myFunction() {
+        var x = document.getElementById("main");
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
     </script>
   </head>
 
@@ -31,7 +31,7 @@
   <button id="show">Show</button>
   <br>
   <br>
-  <div class="main">
+  <div id="main">
   </div>
   <br>
   <br>
