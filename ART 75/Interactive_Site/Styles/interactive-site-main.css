@@ -33,3 +33,11 @@ a {
 img {
 	height: 200px;
 }
+
+ul {
+	text-align: left;
+}
+
+li {
+	font-size: 20px;
+}
