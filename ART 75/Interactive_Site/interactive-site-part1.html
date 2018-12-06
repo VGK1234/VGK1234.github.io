@@ -6,6 +6,16 @@
     <meta charset="utf-8">
     <title>Interactive Site</title>
     <link rel="stylesheet" href="Styles/interactive-site-main.css">
+    <script>
+      $(document).ready(function(){
+          $("#hide").click(function(){
+              $("main").hide();
+          });
+          $("#show").click(function(){
+              $("main").show();
+          });
+      });
+    </script>
   </head>
 
   <body>
@@ -13,6 +23,10 @@
   <img src="Images/School_1.5.jpg">
   <img src="Images/School_2.jpg">
   <img src="Images/School_3.jpg">
+  <br>
+  <br>
+  <button id="hide">Hide</button>
+  <button id="show">Show</button>
   <br>
   <br>
   <div class="main">
