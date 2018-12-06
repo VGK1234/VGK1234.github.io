@@ -9,14 +9,11 @@
     <script src=
     "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script>
-    function myFunction() {
-        var x = document.getElementById("main");
-        if (x.style.display === "none") {
-            x.style.display = "block";
-        } else {
-            x.style.display = "none";
-        }
-    }
+        $(document).ready(function(){
+        $("button").click(function(){
+            $("p").toggle();
+        });
+    });
     </script>
   </head>
 
@@ -27,11 +24,10 @@
   <img src="Images/School_3.jpg">
   <br>
   <br>
-  <button onclick="myFunction()">Hide/Show</button>
+  <button>Hide/Show</button>
   <br>
   <br>
-  <div id="main">
-  </div>
+  <p>This is a test</p>
   <br>
   <br>
   <img src="Images/School_4.jpg">
