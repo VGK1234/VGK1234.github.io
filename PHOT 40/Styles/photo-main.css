@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-color: white;
+}
+
+h1 {
+  height: 60px;
+  text-align: left;
+  background-color: #CC3300;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+h2 {
+  text-align: center;
+  color: #800000;
+  font-family: "Arial", sans-serif;
+  font-size: 32px;  
+}
+
+p {
+  text-align: center;
+  color: black;
+  font-family: "Verdana", sans-serif;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+a {
+  text-align: center;
+  color: black;
+  font-family: "Verdana", sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+img {
+  height: ;
+}

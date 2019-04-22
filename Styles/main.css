@@ -1,6 +1,6 @@
 body {
-  text-align: center;
-  background-color: white;
+		text-align: center;
+	  	background-color: white;
 }
 
 h1 {
@@ -20,7 +20,7 @@ h2 {
 		font-weight: bold;
 		text-align: center;
 		font-family: "Arial", sans-serif;
-    font-size: 32px;
+    	font-size: 32px;
 }
 
 .portfolio-pages {
@@ -35,12 +35,19 @@ h2 {
 		margin-bottom: 10px;
 }
 
+.course-link {
+		flex: 50%;
+		height: 100px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+}
+
 p {
 		text-align: center;
 		font-family: "Verdana", sans-serif;
 		color: black;
-		margin-left: 300px;
-		margin-right: 300px;
+		margin-left: 100px;
+		margin-right: 100px;
 }
 
 a {
