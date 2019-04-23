@@ -25,12 +25,12 @@ h2 {
 
 .portfolio-pages {
 		display: flex;
-		height: 250px;
+		height: 300px;
 }
 
 .course {
 		flex: 33.3%;
-		height: 250px;
+		height: 300px;
 		margin-top: 10px;
 		margin-bottom: 10px;
 }
