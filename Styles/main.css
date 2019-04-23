@@ -36,6 +36,7 @@ h2 {
 }
 
 .course-link {
+		background-color: #FFF999;
 		flex: 50%;
 		height: 100px;
 		margin-top: 10px;
