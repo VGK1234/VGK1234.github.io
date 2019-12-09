@@ -20,7 +20,7 @@ h2 {
 		font-weight: bold;
 		text-align: center;
 		font-family: "Arial", sans-serif;
-    font-size: 28px;
+    	ont-size: 28px;
 }
 
 .portfolio-pages {
@@ -33,6 +33,10 @@ h2 {
 		height: 300px;
 		margin-top: 10px;
 		margin-bottom: 10px;
+}
+
+.portfolio-pages2 {
+	height: 300px;
 }
 
 p {
